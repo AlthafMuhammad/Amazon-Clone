@@ -30,17 +30,17 @@ function Home() {
             <div className="home__row">
                 <Product
                     id="10003"
-                    title="Mi True Wireless Earphones 2 with Balanced Sound,14 hrs Battery Life; 14.2 mm Dynamic Driver, Dual Mic Environment Noise Cancellation, One Step Pairing, Smart in-Ear Detection, LHDC Audio Codec"
-                    price={3999}
+                    title="Mi Earphone Basic with Ultra deep bass and mic (Black)"
+                    price={399}
                     rating={3}
-                    image="https://images-na.ssl-images-amazon.com/images/I/614imrpvD9L._SY450_.jpg"
+                    image="https://images-na.ssl-images-amazon.com/images/I/71mQ9oKDMLL._SX522_.jpg"
                 />
                 <Product
                     id="10004"
-                    title="Learning React: Functional Web Development with React and Redux Paperback – 1 January 2017"
-                    price={925}
-                    rating={4}
-                    image="https://images-na.ssl-images-amazon.com/images/I/51imLrht6lL._SX389_BO1,204,203,200_.jpg"
+                    title="React.js Essentials Paperback – Import, 27 August 2015"
+                    price={1490}
+                    rating={3}
+                    image="https://images-na.ssl-images-amazon.com/images/I/41-HWOw--cL._SX404_BO1,204,203,200_.jpg"
                 />
                 <Product
                     id="10005"
