@@ -8,4 +8,4 @@ Features :
   3) Subtotal component with total amount of things in basket
   4) User Login and Authentication
   
-  https://althafmuhammad.me/Amazon-Clone/
+  https://althafmuhammad.github.io/Amazon-Clone/
